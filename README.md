@@ -1,3 +1,3 @@
-# Notes on my profile's GitHub Page
+# My GitHub Profile Page
 
-I am senior software engineer, specializing in Microsoft technologies and stack. I do dabble a little outside of Microsoft's stack.
+I am a senior software engineer, specializing in Microsoft technologies and stack. I do dabble a little outside of Microsoft's stack.
